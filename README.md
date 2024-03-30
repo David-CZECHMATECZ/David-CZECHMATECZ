@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David-CZECHMATECZ
-- 👀 I’m interested in Open Source Intelligence (OSINt), Information Security Management System (ISMS) and cybersecurity.
+- 👀 I’m interested in Open Source Intelligence (OSINt), Information Security Management System (ISMS) and cybersecurity
 - 🌱 I’m currently learning using AI in ISMS
 - 💞️ I’m looking to collaborate on OSINT and ISMS projects
 - 📫 How to reach me ...using OSINT
