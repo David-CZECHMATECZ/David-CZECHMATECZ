@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @David-CZECHMATECZ
-- 👀 I’m interested in Open Source Intelligence (OSINT), Information Security Management System (ISMS), Cyber Threat Intelligence (CTI)
-- 🌱 I’m currently learning using AI in OSINT, ISMS, CTI
-- 💞️ I’m looking to collaborate on OSINT, ISMS and CTI projects
+- 👀 I’m interested in Open Source and Cyber Threat Intelligence (OSINT, CTI) and Information Security Management System (ISMS)
+- 🌱 I’m currently learning using AI in OSINT, CTI, ISMS
+- 💞️ I’m looking to collaborate on OSINT, CTI, ISMS projects
 - 📫 How to reach me ...using OSINT
 - 😄 Pronouns: David Havlik
 - ⚡ Fun fact: former investigative reporter
