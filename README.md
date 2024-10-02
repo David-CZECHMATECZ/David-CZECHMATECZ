@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David-CZECHMATECZ
-- 👀 I’m interested in Open Source Intelligence (OSINT), Information Security Management System (ISMS) and Cyber Threat Intelligence (CTI)
+- 👀 I’m interested in Open Source Intelligence (OSINT), Information Security Management System (ISMS), Cyber Threat Intelligence (CTI)
 - 🌱 I’m currently learning using AI in OSINT, ISMS, CTI
 - 💞️ I’m looking to collaborate on OSINT, ISMS and CTI projects
 - 📫 How to reach me ...using OSINT
